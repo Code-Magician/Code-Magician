@@ -1,6 +1,6 @@
 <!-- ✨ Animated Header ✨ -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3500&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Priyansh+Singh!;Game+Developer+%7C+VR+Enthusiast+%7C+Mentor;Welcome+to+my+Dev+World!+💾" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3500&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Priyansh+Singh!;Game+Developer;VR+Enthusiast;Welcome+to+my+Dev+World!+💾" alt="Typing Animation" />
 </h1>
 
 <p align="center">
