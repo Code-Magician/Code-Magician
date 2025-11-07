@@ -1,89 +1,89 @@
-<!-- Animated header -->
+<!-- ✨ Animated Header ✨ -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hey+there!+👋;I'm+Priyansh+Singh!;Game+Developer+%7C+VR+Enthusiast+%7C+Mentor" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3500&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Priyansh+Singh!;Game+Developer+%7C+VR+Enthusiast+%7C+Mentor;Welcome+to+my+Dev+World!+💾" alt="Typing Animation" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Code-Magician&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Code-Magician&label=Profile%20Visits&color=F72585&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Code-Magician?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
 ---
 
 ### 🧠 About Me  
-🎮 **Game Developer** passionate about creating immersive and meaningful gameplay experiences.  
-👓 Exploring **VR/AR development** with Unity and Oculus.  
-🧑‍🏫 Currently mentoring students in game development, helping them build their dream projects.  
-🚀 Building prototypes with stunning **cel-shaded graphics** inspired by *Genshin Impact*.  
+🎮 **Game Developer** obsessed with crafting interactive worlds that blend story, sound, and emotion.  
+👾 I believe **games are art** — code, music, and visuals in perfect sync.  
+👓 Currently exploring **VR/AR** using Unity + Oculus.  
+🧑‍🏫 Mentoring young developers to help them build amazing projects.  
+🧩 Loves **procedural generation**, **AI mechanics**, and **retro game design**.  
+🎸 When not coding, you’ll find me **playing guitar** or **singing to lo-fi tracks**.  
 
 ---
 
-### 🛠️ Tech Stack
+### ⚙️ My Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,react,blender,git,firebase,vscode,photoshop" />
-  <br/>
-  <img src="https://img.shields.io/badge/VR%20%26%20AR-0078D6?style=for-the-badge&logo=oculus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Game%20Design-ff006e?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,blender,java,react,git,firebase,cpp,vscode" />
+  <br>
+  <img src="https://img.shields.io/badge/AR%20%26%20VR-8A2BE2?style=for-the-badge&logo=oculus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Game%20Design-F72585?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Procedural%20Generation-FFB703?style=for-the-badge&logo=unity&logoColor=black" />
 </p>
 
 ---
 
-### 🎯 Featured Projects
-| 🕹️ Project | 💡 Description | 🔗 Link |
+### 🕹️ Featured Projects
+| 🎯 Project | 💡 Description | 🔗 Link |
 |-------------|----------------|---------|
-| 🛰️ **Solar System Simulation** | Realistic 3D planetary motion built in Unity | [View Repo](https://github.com/YOURUSERNAME/solar-system) |
-| 🥁 **Drum Hero** | Rhythm-based drumming game inspired by Piano Tiles | [View Repo](https://github.com/YOURUSERNAME/drum-hero) |
-| 🎮 **Find the Flag** | Multiplayer prototype with cel-shaded Genshin-style visuals | [View Repo](https://github.com/YOURUSERNAME/find-the-flag) |
-| 🕶️ **AR Ball Experience** | AR + VR fusion game with real-world object interaction | [View Repo](https://github.com/YOURUSERNAME/ar-ball) |
+| 🧟‍♂️ **Mazoandom** | FPS Zombie Shooter with procedurally generated multi-floor mazes | [View](https://github.com/Code-Magician/Mazoandom/tree/develop) |
+| 🧠 **OpenD (NFT Marketplace)** | Blockchain-based NFT platform on ICP, like OpenSea | [View](https://github.com/Code-Magician/NFT-Marketplace) |
+| 🗣️ **Subtitle Generator** | JavaFX app using AssemblyAI API to auto-generate subtitles | [View](https://github.com/Code-Magician/Subtitle-Generator) |
+| 🌀 **Procedural Maze Generation** | 3D procedural maze generation in Unity + Blender | [View](https://github.com/Code-Magician/Maze-Generator/tree/developer) |
+| 🧟 **Zombie Shooter** | Unity 3D zombie game with Blender assets and Mixamo animations | [View](https://github.com/Code-Magician/Zombie-Shooter/tree/develop) |
+| 🏙️ **City Blocks** | Hyper-casual Unity clone with real-time score updates | [Play](https://warlock-perry.itch.io/city-blocks) |
+| 🎨 **Color Switch Replica** | Single-player Unity clone with random obstacle generation | [View](https://github.com/Code-Magician/Color-switch) |
 
 ---
 
-### 💼 Currently Working On
-- 🧑‍🏫 Mentoring high-school students on Unity & Game Design  
-- 🎨 Enhancing cel-shading graphics in my prototype  
-- 🧩 Developing fun 2D mobile games for my upcoming **indie studio**
-
----
-
-### ⚡ GitHub Stats & Activity
-
+### ⚡ GitHub Power Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-Magician&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Code-Magician&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Magician&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-Magician&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Code-Magician&show_icons=true&theme=radical&hide_border=true&bg_color=141321&title_color=F72585&icon_color=FFD700" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Magician&layout=compact&theme=radical&hide_border=true&bg_color=141321&title_color=F72585" alt="Top Languages" />
 </p>
 
 ---
 
-### 🔥 GitHub Contribution Heatmap
+### 🔥 Activity Heatmap
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Code-Magician&theme=react-dark&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Code-Magician&theme=redical&bg_color=0D1117&color=F72585&line=FFD700&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/priyansh-singh-31a7391b4/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://instagram.com/warlock.perry"><img src="https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://priyanshsingh.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/priyansh-singh-31a7391b4/"><img src="https://img.shields.io/badge/LinkedIn-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/warlock.perry"><img src="https://img.shields.io/badge/Instagram-F72585?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://priyanshsingh.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=firefox&logoColor=black" /></a>
 </p>
 
 ---
 
 ### 🎲 Fun Facts
-- 🎧 I love blending **music** and **gameplay** in creative ways.  
-- 🌌 Dreaming of building a **multiplayer open-world game** someday.  
-- 🧠 Always learning — currently diving into **advanced VR mechanics**.  
-- 💫 Motto: *“Create games that players feel, not just play.”*
+- 🎧 Combines **music & gameplay** to create rhythm-based experiences  
+- 🌌 Wants to build a **multiplayer open-world adventure** someday  
+- 🧠 Loves experimenting with **procedural worlds & AI**  
+- 💫 Motto: *“Create games players feel, not just play.”*  
+- 💬 Favorite Debug Quote: `It's not a bug, it's a feature!` 😎  
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
-<h3 align="center">Thanks for visiting! ⭐ Drop a star if you liked my projects!</h3>
-
+<h3 align="center">👾 Thanks for stopping by! ⭐ Drop a star if you enjoyed my projects — Respawn soon!</h3>
