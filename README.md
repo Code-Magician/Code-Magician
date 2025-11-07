@@ -4,8 +4,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/YOURUSERNAME?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Code-Magician&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Code-Magician?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
 ---
